@@ -1,0 +1,3 @@
+This project was created for the Upgrade Capital Code in Finance competition. The purpose of the project was to analyze asset data from client from the three major regions. Given the previous day's end-of-day account balances and the current day's, the goal was to calculate the current day's end-of-day balances and create a new file that calculated the margin calls for each client. Clients can view their specific account and get the information for all accounts through the command line tool within the script.
+
+The .csv file created contains four fields: the account number, the total cash balance, the total margin balance, and whether or not a margin call occurs.
